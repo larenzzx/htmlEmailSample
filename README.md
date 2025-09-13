@@ -2,7 +2,7 @@
 
 This project is a **custom HTML Email Template** built using traditional **table-based layouts** and **inline CSS** for maximum compatibility across different email clients (Outlook, Gmail, Yahoo, Apple Mail, etc.).  
 
-I created this project to showcase my skills as an **HTML Email Developer / Email Creative Technician**, demonstrating my ability to build responsive, branded, and client-ready email templates.
+I created this project to showcase that I can build a responsive, branded, and client-ready HTML email template.
 
 ---
 
